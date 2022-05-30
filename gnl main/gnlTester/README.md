@@ -11,8 +11,7 @@ make a = launch mandatory tests + bonus tests
 
 make dockerm = launch mandatory tests in linux container  
 make dockerb = launch bonus tests in linux container  
-make dockera = launch mandatory tests + bonus tests in linux container  
-Thanks to gurival- for the docker idea (https://github.com/grouville/valgrind_42)  
+make dockera = launch mandatory tests + bonus tests in linux container    
 
 You can change the timeout value in Makefile    
 ![alt text](https://i.imgur.com/jUimpaC.png)  

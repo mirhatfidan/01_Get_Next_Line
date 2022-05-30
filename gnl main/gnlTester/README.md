@@ -1,7 +1,7 @@
 # gnlTester (2019+)
 Tester for the get next line project of 42 school (with personalized leaks checking on mac, using valgrind on linux)  
 Clone this tester in your get_next_line repository. (works on linux and mac, handles sigsegv on all tests, and timeout on mandatory part)  
-![alt text](https://i.imgur.com/uupv1UH.png)
+
 
 
 # Commands

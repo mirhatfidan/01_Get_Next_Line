@@ -40,4 +40,3 @@ MOK / MKO = test about your malloc size (this shouldn't be tested by moulinette)
 
 
 # Report bugs / Improvement
-Contact me on slack or discord : jgambard
